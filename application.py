@@ -1,1 +1,1 @@
-print("Some string")
+print("Best practics")
